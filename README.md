@@ -1,4 +1,4 @@
-#React Quiz App ⏱
+# React Quiz App ⏱
 
 A simple and interactive quiz application built with **React**, using **useContext** and **useReducer** for state management.  
 The app fetches quiz data from a mock API, includes a progress bar and timer, and displays total points at the end.
