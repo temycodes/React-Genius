@@ -1,4 +1,4 @@
-import { type } from "@testing-library/user-event/dist/type";
+
 import { useReducer } from "react";
 
 function reducer(state, action) {
