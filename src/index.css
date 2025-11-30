@@ -1,14 +1,12 @@
 :root {
   --color-darkest: #284b63;
-  --color-dark: #495057;
-  --color-medium: #ced4da;
-  --color-light: #f1f3f5;
+  --color-dark: #3b4a5a;
+  --color-medium: #8fa3b3;
+  --color-light: #e3e9f0;
 
   --color-theme: #27fb6b;
-  --color-accent: #ad2831;
+  --color-accent: #fb6b72;
 }
-
-/* @import url("https://fonts.googleapis.com/css2?family=Codystar&display=swap"); */
 
 @import url("https://fonts.googleapis.com/css2?family=Metamorphous&family=Rye&display=swap");
 
